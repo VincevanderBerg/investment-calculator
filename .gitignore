@@ -1,5 +1,7 @@
 .DS_STORE
 
+./src/investment-results.ts
+
 /dist/
 /bazel-out
 /integration/bazel/bazel-*
